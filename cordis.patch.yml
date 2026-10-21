@@ -1,5 +1,5 @@
-# Bundle patch for dsh-bocha-tavily-router (tools build).
+# Bundle patch for dsh-bocha-tools (tools build).
 # It only inserts the plugin row; it does NOT change web.searchProvider —
 # the plugin registers tools instead of a provider (see NOTES.md).
-- id: bocha-tavily-router
-  name: "dsh-bocha-tavily-router"
+- id: dsh-bocha-tools
+  name: "dsh-bocha-tools"
